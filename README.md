@@ -44,6 +44,13 @@ Some of the major findings from the analysis include:
 * Highlighted areas where sales performance could be improved.
 
 ## Dashboard
+The Power BI dashboard provides an interactive overview of US cookie sales performance, including product performance, sales trend, city-level performance, and customer purchasing patterns.
+
+The dashboard was developed to transform the analyzed sales data into clear and actionable business insights.
+
+Dashboard Preview
+<img width="883" height="486" alt="US-Cookie-Sales-Github-Capture" src="https://github.com/user-attachments/assets/d6116e02-85ce-4200-90f5-1b9d8eddee7f" />
+For the complete analysis, see the Power BI report and PDF included in this repository.
 
 ## Business Recommendations
 
